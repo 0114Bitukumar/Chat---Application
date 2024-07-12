@@ -1,0 +1,18 @@
+{
+  "name": "chat---application",
+  "version": "1.0.0",
+  "description": "I created Chat - Application using ejs  node .js  express socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0",
+    "socket.io": "^4.7.5"
+  }
+}
